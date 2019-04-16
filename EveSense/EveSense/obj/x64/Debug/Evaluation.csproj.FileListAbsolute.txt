@@ -1,0 +1,72 @@
+c:\users\zafar\documents\visual studio 2015\Projects\Evaluation\Evaluation\bin\x64\Debug\Evaluation.exe.config
+c:\users\zafar\documents\visual studio 2015\Projects\Evaluation\Evaluation\bin\x64\Debug\Evaluation.exe
+c:\users\zafar\documents\visual studio 2015\Projects\Evaluation\Evaluation\bin\x64\Debug\Evaluation.pdb
+c:\users\zafar\documents\visual studio 2015\Projects\Evaluation\Evaluation\obj\x64\Debug\Evaluation.Form1.resources
+c:\users\zafar\documents\visual studio 2015\Projects\Evaluation\Evaluation\obj\x64\Debug\Evaluation.Properties.Resources.resources
+c:\users\zafar\documents\visual studio 2015\Projects\Evaluation\Evaluation\obj\x64\Debug\Evaluation.csproj.GenerateResource.Cache
+c:\users\zafar\documents\visual studio 2015\Projects\Evaluation\Evaluation\obj\x64\Debug\Evaluation.exe
+c:\users\zafar\documents\visual studio 2015\Projects\Evaluation\Evaluation\obj\x64\Debug\Evaluation.pdb
+C:\Users\Zafar\Documents\Visual Studio 2015\Projects\Evaluation\Evaluation\obj\x64\Debug\Evaluation.csprojResolveAssemblyReference.cache
+C:\Users\Zafar\Documents\Visual Studio 2015\Projects\Evaluation\Evaluation\bin\x64\Debug\nunit.framework.dll
+C:\Users\Zafar\Documents\Visual Studio 2015\Projects\Evaluation\Evaluation\bin\x64\Debug\NunitStatDescriptive.dll
+C:\Users\Zafar\Documents\Visual Studio 2015\Projects\Evaluation\Evaluation\bin\x64\Debug\StatDescriptive.dll
+C:\Users\Zafar\Documents\Visual Studio 2015\Projects\Evaluation\Evaluation\bin\x64\Debug\Stemmer.dll
+C:\Users\Zafar\Documents\Visual Studio 2015\Projects\Evaluation\Evaluation\bin\x64\Debug\NunitStatDescriptive.pdb
+C:\Users\Zafar\Documents\Visual Studio 2015\Projects\Evaluation\Evaluation\bin\x64\Debug\StatDescriptive.pdb
+C:\Users\Zafar\Documents\Visual Studio 2015\Projects\Evaluation\Evaluation\bin\x64\Debug\Stemmer.pdb
+D:\PhD\Research\UTS Work\PhD Results Auto Evaluation Project\Evaluation\bin\x64\Debug\Evaluation.exe.config
+D:\PhD\Research\UTS Work\PhD Results Auto Evaluation Project\Evaluation\obj\x64\Debug\Evaluation.exe
+D:\PhD\Research\UTS Work\PhD Results Auto Evaluation Project\Evaluation\obj\x64\Debug\Evaluation.pdb
+D:\PhD\Research\UTS Work\PhD Results Auto Evaluation Project\Evaluation\bin\x64\Debug\Evaluation.exe
+D:\PhD\Research\UTS Work\PhD Results Auto Evaluation Project\Evaluation\bin\x64\Debug\Evaluation.pdb
+D:\PhD\Research\UTS Work\PhD Results Auto Evaluation Project\Evaluation\bin\x64\Debug\nunit.framework.dll
+D:\PhD\Research\UTS Work\PhD Results Auto Evaluation Project\Evaluation\bin\x64\Debug\NunitStatDescriptive.dll
+D:\PhD\Research\UTS Work\PhD Results Auto Evaluation Project\Evaluation\bin\x64\Debug\StatDescriptive.dll
+D:\PhD\Research\UTS Work\PhD Results Auto Evaluation Project\Evaluation\bin\x64\Debug\Stemmer.dll
+D:\PhD\Research\UTS Work\PhD Results Auto Evaluation Project\Evaluation\bin\x64\Debug\NunitStatDescriptive.pdb
+D:\PhD\Research\UTS Work\PhD Results Auto Evaluation Project\Evaluation\bin\x64\Debug\StatDescriptive.pdb
+D:\PhD\Research\UTS Work\PhD Results Auto Evaluation Project\Evaluation\bin\x64\Debug\Stemmer.pdb
+D:\PhD\Research\UTS Work\PhD Results Auto Evaluation Project\Evaluation\obj\x64\Debug\Evaluation.csprojResolveAssemblyReference.cache
+D:\PhD\Research\UTS Work\PhD Results Auto Evaluation Project\Evaluation\obj\x64\Debug\Evaluation.Form1.resources
+D:\PhD\Research\UTS Work\PhD Results Auto Evaluation Project\Evaluation\obj\x64\Debug\Evaluation.Properties.Resources.resources
+D:\PhD\Research\UTS Work\PhD Results Auto Evaluation Project\Evaluation\obj\x64\Debug\Evaluation.csproj.GenerateResource.Cache
+D:\PhD\Research\UTS Work\PhD Results Auto Evaluation Project - Version 2\Evaluation\bin\x64\Debug\Evaluation.exe.config
+D:\PhD\Research\UTS Work\PhD Results Auto Evaluation Project - Version 2\Evaluation\obj\x64\Debug\Evaluation.exe
+D:\PhD\Research\UTS Work\PhD Results Auto Evaluation Project - Version 2\Evaluation\obj\x64\Debug\Evaluation.pdb
+D:\PhD\Research\UTS Work\PhD Results Auto Evaluation Project - Version 2\Evaluation\bin\x64\Debug\Evaluation.exe
+D:\PhD\Research\UTS Work\PhD Results Auto Evaluation Project - Version 2\Evaluation\bin\x64\Debug\Evaluation.pdb
+D:\PhD\Research\UTS Work\PhD Results Auto Evaluation Project - Version 2\Evaluation\bin\x64\Debug\nunit.framework.dll
+D:\PhD\Research\UTS Work\PhD Results Auto Evaluation Project - Version 2\Evaluation\bin\x64\Debug\NunitStatDescriptive.dll
+D:\PhD\Research\UTS Work\PhD Results Auto Evaluation Project - Version 2\Evaluation\bin\x64\Debug\StatDescriptive.dll
+D:\PhD\Research\UTS Work\PhD Results Auto Evaluation Project - Version 2\Evaluation\bin\x64\Debug\Stemmer.dll
+D:\PhD\Research\UTS Work\PhD Results Auto Evaluation Project - Version 2\Evaluation\bin\x64\Debug\NunitStatDescriptive.pdb
+D:\PhD\Research\UTS Work\PhD Results Auto Evaluation Project - Version 2\Evaluation\bin\x64\Debug\StatDescriptive.pdb
+D:\PhD\Research\UTS Work\PhD Results Auto Evaluation Project - Version 2\Evaluation\bin\x64\Debug\Stemmer.pdb
+D:\PhD\Research\UTS Work\PhD Results Auto Evaluation Project - Version 2\Evaluation\obj\x64\Debug\Evaluation.csprojResolveAssemblyReference.cache
+D:\PhD\Research\UTS Work\PhD Results Auto Evaluation Project - Version 2\Evaluation\obj\x64\Debug\Evaluation.Form1.resources
+D:\PhD\Research\UTS Work\PhD Results Auto Evaluation Project - Version 2\Evaluation\obj\x64\Debug\Evaluation.Properties.Resources.resources
+D:\PhD\Research\UTS Work\PhD Results Auto Evaluation Project - Version 2\Evaluation\obj\x64\Debug\Evaluation.csproj.GenerateResource.Cache
+D:\PhD\Research\UTS Work\PhD Results Auto Evaluation Project - Version 2\Evaluation\obj\x64\Debug\Evaluation.Form2.resources
+D:\PhD\Research\UTS Work\PhD Results Auto Evaluation Project - Version 2\Evaluation\bin\x64\Debug\Gma.CodeCloud.Controls.dll
+D:\PhD\Research\UTS Work\PhD Results Auto Evaluation Project - Version 2\Evaluation\bin\x64\Debug\Lucene.Net.dll
+D:\PhD\Research\UTS Work\PhD Results Auto Evaluation Project - Version 2\Evaluation\bin\x64\Debug\Gma.CodeCloud.Controls.pdb
+D:\PhD\Research\UTS Work\EveSense\Evaluation\bin\x64\Debug\Evaluation.exe.config
+D:\PhD\Research\UTS Work\EveSense\Evaluation\obj\x64\Debug\Evaluation.exe
+D:\PhD\Research\UTS Work\EveSense\Evaluation\obj\x64\Debug\Evaluation.pdb
+D:\PhD\Research\UTS Work\EveSense\Evaluation\bin\x64\Debug\Evaluation.exe
+D:\PhD\Research\UTS Work\EveSense\Evaluation\bin\x64\Debug\Evaluation.pdb
+D:\PhD\Research\UTS Work\EveSense\Evaluation\bin\x64\Debug\Gma.CodeCloud.Controls.dll
+D:\PhD\Research\UTS Work\EveSense\Evaluation\bin\x64\Debug\Lucene.Net.dll
+D:\PhD\Research\UTS Work\EveSense\Evaluation\bin\x64\Debug\nunit.framework.dll
+D:\PhD\Research\UTS Work\EveSense\Evaluation\bin\x64\Debug\NunitStatDescriptive.dll
+D:\PhD\Research\UTS Work\EveSense\Evaluation\bin\x64\Debug\StatDescriptive.dll
+D:\PhD\Research\UTS Work\EveSense\Evaluation\bin\x64\Debug\Stemmer.dll
+D:\PhD\Research\UTS Work\EveSense\Evaluation\bin\x64\Debug\Gma.CodeCloud.Controls.pdb
+D:\PhD\Research\UTS Work\EveSense\Evaluation\bin\x64\Debug\NunitStatDescriptive.pdb
+D:\PhD\Research\UTS Work\EveSense\Evaluation\bin\x64\Debug\StatDescriptive.pdb
+D:\PhD\Research\UTS Work\EveSense\Evaluation\bin\x64\Debug\Stemmer.pdb
+D:\PhD\Research\UTS Work\EveSense\Evaluation\obj\x64\Debug\Evaluation.csprojResolveAssemblyReference.cache
+D:\PhD\Research\UTS Work\EveSense\Evaluation\obj\x64\Debug\Evaluation.Form1.resources
+D:\PhD\Research\UTS Work\EveSense\Evaluation\obj\x64\Debug\Evaluation.Form2.resources
+D:\PhD\Research\UTS Work\EveSense\Evaluation\obj\x64\Debug\Evaluation.Properties.Resources.resources
+D:\PhD\Research\UTS Work\EveSense\Evaluation\obj\x64\Debug\Evaluation.csproj.GenerateResource.Cache

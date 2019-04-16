@@ -1,0 +1,10 @@
+c:\users\zafar\documents\visual studio 2015\Projects\PhDExperiment\Stemmer\bin\Debug\Stemmer.dll
+c:\users\zafar\documents\visual studio 2015\Projects\PhDExperiment\Stemmer\bin\Debug\Stemmer.pdb
+c:\users\zafar\documents\visual studio 2015\Projects\PhDExperiment\Stemmer\obj\Debug\Stemmer.csprojResolveAssemblyReference.cache
+c:\users\zafar\documents\visual studio 2015\Projects\PhDExperiment\Stemmer\obj\Debug\Stemmer.dll
+c:\users\zafar\documents\visual studio 2015\Projects\PhDExperiment\Stemmer\obj\Debug\Stemmer.pdb
+D:\PhD\Research\UTS Work\PhDExperiment - MemoryFix\Stemmer\bin\Debug\Stemmer.dll
+D:\PhD\Research\UTS Work\PhDExperiment - MemoryFix\Stemmer\bin\Debug\Stemmer.pdb
+D:\PhD\Research\UTS Work\PhDExperiment - MemoryFix\Stemmer\obj\Debug\Stemmer.csprojResolveAssemblyReference.cache
+D:\PhD\Research\UTS Work\PhDExperiment - MemoryFix\Stemmer\obj\Debug\Stemmer.dll
+D:\PhD\Research\UTS Work\PhDExperiment - MemoryFix\Stemmer\obj\Debug\Stemmer.pdb

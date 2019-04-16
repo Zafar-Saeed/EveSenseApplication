@@ -1,0 +1,52 @@
+D:\PhD\Research\UTS Work\ECML-Code\PhDExperiment - MemoryFix\PhDExperiment\bin\x64\Debug\PhDExperiment.exe.config
+D:\PhD\Research\UTS Work\ECML-Code\PhDExperiment - MemoryFix\PhDExperiment\bin\x64\Debug\PhDExperiment.exe
+D:\PhD\Research\UTS Work\ECML-Code\PhDExperiment - MemoryFix\PhDExperiment\bin\x64\Debug\PhDExperiment.pdb
+D:\PhD\Research\UTS Work\ECML-Code\PhDExperiment - MemoryFix\PhDExperiment\bin\x64\Debug\Stemmer.dll
+D:\PhD\Research\UTS Work\ECML-Code\PhDExperiment - MemoryFix\PhDExperiment\bin\x64\Debug\Stemmer.pdb
+D:\PhD\Research\UTS Work\ECML-Code\PhDExperiment - MemoryFix\PhDExperiment\obj\x64\Debug\DhgDataProcessor.csprojResolveAssemblyReference.cache
+D:\PhD\Research\UTS Work\ECML-Code\PhDExperiment - MemoryFix\PhDExperiment\obj\x64\Debug\PhDExperiment.frmDataProcessor.resources
+D:\PhD\Research\UTS Work\ECML-Code\PhDExperiment - MemoryFix\PhDExperiment\obj\x64\Debug\PhDExperiment.frmDataSetParsingAndCleaning.resources
+D:\PhD\Research\UTS Work\ECML-Code\PhDExperiment - MemoryFix\PhDExperiment\obj\x64\Debug\PhDExperiment.frmMainApp.resources
+D:\PhD\Research\UTS Work\ECML-Code\PhDExperiment - MemoryFix\PhDExperiment\obj\x64\Debug\PhDExperiment.frmReduceDataSet.resources
+D:\PhD\Research\UTS Work\ECML-Code\PhDExperiment - MemoryFix\PhDExperiment\obj\x64\Debug\PhDExperiment.frmSpikeDetector.resources
+D:\PhD\Research\UTS Work\ECML-Code\PhDExperiment - MemoryFix\PhDExperiment\obj\x64\Debug\PhDExperiment.frmTweetFrequencyDistributor.resources
+D:\PhD\Research\UTS Work\ECML-Code\PhDExperiment - MemoryFix\PhDExperiment\obj\x64\Debug\PhDExperiment.Properties.Resources.resources
+D:\PhD\Research\UTS Work\ECML-Code\PhDExperiment - MemoryFix\PhDExperiment\obj\x64\Debug\DhgDataProcessor.csproj.GenerateResource.Cache
+D:\PhD\Research\UTS Work\ECML-Code\PhDExperiment - MemoryFix\PhDExperiment\obj\x64\Debug\PhDExperiment.exe
+D:\PhD\Research\UTS Work\ECML-Code\PhDExperiment - MemoryFix\PhDExperiment\obj\x64\Debug\PhDExperiment.pdb
+D:\PhD\Research\UTS Work\ECML-Code\DHG-Data-Processor\PhDExperiment\bin\x64\Debug\PhDExperiment.exe.config
+D:\PhD\Research\UTS Work\ECML-Code\DHG-Data-Processor\PhDExperiment\obj\x64\Debug\PhDExperiment.exe
+D:\PhD\Research\UTS Work\ECML-Code\DHG-Data-Processor\PhDExperiment\obj\x64\Debug\PhDExperiment.pdb
+D:\PhD\Research\UTS Work\ECML-Code\DHG-Data-Processor\PhDExperiment\bin\x64\Debug\PhDExperiment.exe
+D:\PhD\Research\UTS Work\ECML-Code\DHG-Data-Processor\PhDExperiment\bin\x64\Debug\PhDExperiment.pdb
+D:\PhD\Research\UTS Work\ECML-Code\DHG-Data-Processor\PhDExperiment\bin\x64\Debug\Stemmer.dll
+D:\PhD\Research\UTS Work\ECML-Code\DHG-Data-Processor\PhDExperiment\bin\x64\Debug\Stemmer.pdb
+D:\PhD\Research\UTS Work\ECML-Code\DHG-Data-Processor\PhDExperiment\obj\x64\Debug\DhgDataProcessor.csprojResolveAssemblyReference.cache
+D:\PhD\Research\UTS Work\ECML-Code\DHG-Data-Processor\PhDExperiment\obj\x64\Debug\PhDExperiment.frmDataProcessor.resources
+D:\PhD\Research\UTS Work\ECML-Code\DHG-Data-Processor\PhDExperiment\obj\x64\Debug\PhDExperiment.frmDataSetParsingAndCleaning.resources
+D:\PhD\Research\UTS Work\ECML-Code\DHG-Data-Processor\PhDExperiment\obj\x64\Debug\PhDExperiment.frmMainApp.resources
+D:\PhD\Research\UTS Work\ECML-Code\DHG-Data-Processor\PhDExperiment\obj\x64\Debug\PhDExperiment.frmReduceDataSet.resources
+D:\PhD\Research\UTS Work\ECML-Code\DHG-Data-Processor\PhDExperiment\obj\x64\Debug\PhDExperiment.frmSpikeDetector.resources
+D:\PhD\Research\UTS Work\ECML-Code\DHG-Data-Processor\PhDExperiment\obj\x64\Debug\PhDExperiment.frmTweetFrequencyDistributor.resources
+D:\PhD\Research\UTS Work\ECML-Code\DHG-Data-Processor\PhDExperiment\obj\x64\Debug\PhDExperiment.Properties.Resources.resources
+D:\PhD\Research\UTS Work\ECML-Code\DHG-Data-Processor\PhDExperiment\obj\x64\Debug\DhgDataProcessor.csproj.GenerateResource.Cache
+D:\PhD\Research\UTS Work\ECML-Code\DHG_Data_Processor\PhDExperiment\bin\x64\Debug\PhDExperiment.exe.config
+D:\PhD\Research\UTS Work\ECML-Code\DHG_Data_Processor\PhDExperiment\obj\x64\Debug\PhDExperiment.exe
+D:\PhD\Research\UTS Work\ECML-Code\DHG_Data_Processor\PhDExperiment\obj\x64\Debug\PhDExperiment.pdb
+D:\PhD\Research\UTS Work\ECML-Code\DHG_Data_Processor\PhDExperiment\bin\x64\Debug\DhgDataProcessor.exe.config
+D:\PhD\Research\UTS Work\ECML-Code\DHG_Data_Processor\DhgDataProcessor\bin\x64\Debug\DhgDataProcessor.exe.config
+D:\PhD\Research\UTS Work\ECML-Code\DHG_Data_Processor\DhgDataProcessor\bin\x64\Debug\DhgDataProcessor.exe
+D:\PhD\Research\UTS Work\ECML-Code\DHG_Data_Processor\DhgDataProcessor\bin\x64\Debug\DhgDataProcessor.pdb
+D:\PhD\Research\UTS Work\ECML-Code\DHG_Data_Processor\DhgDataProcessor\bin\x64\Debug\Stemmer.dll
+D:\PhD\Research\UTS Work\ECML-Code\DHG_Data_Processor\DhgDataProcessor\bin\x64\Debug\Stemmer.pdb
+D:\PhD\Research\UTS Work\ECML-Code\DHG_Data_Processor\DhgDataProcessor\obj\x64\Debug\DhgDataProcessor.csprojResolveAssemblyReference.cache
+D:\PhD\Research\UTS Work\ECML-Code\DHG_Data_Processor\DhgDataProcessor\obj\x64\Debug\DhgDataProcessor.frmDataProcessor.resources
+D:\PhD\Research\UTS Work\ECML-Code\DHG_Data_Processor\DhgDataProcessor\obj\x64\Debug\DhgDataProcessor.frmDataSetParsingAndCleaning.resources
+D:\PhD\Research\UTS Work\ECML-Code\DHG_Data_Processor\DhgDataProcessor\obj\x64\Debug\DhgDataProcessor.frmMainApp.resources
+D:\PhD\Research\UTS Work\ECML-Code\DHG_Data_Processor\DhgDataProcessor\obj\x64\Debug\DhgDataProcessor.frmReduceDataSet.resources
+D:\PhD\Research\UTS Work\ECML-Code\DHG_Data_Processor\DhgDataProcessor\obj\x64\Debug\DhgDataProcessor.frmSpikeDetector.resources
+D:\PhD\Research\UTS Work\ECML-Code\DHG_Data_Processor\DhgDataProcessor\obj\x64\Debug\DhgDataProcessor.frmTweetFrequencyDistributor.resources
+D:\PhD\Research\UTS Work\ECML-Code\DHG_Data_Processor\DhgDataProcessor\obj\x64\Debug\DhgDataProcessor.Properties.Resources.resources
+D:\PhD\Research\UTS Work\ECML-Code\DHG_Data_Processor\DhgDataProcessor\obj\x64\Debug\DhgDataProcessor.csproj.GenerateResource.Cache
+D:\PhD\Research\UTS Work\ECML-Code\DHG_Data_Processor\DhgDataProcessor\obj\x64\Debug\DhgDataProcessor.exe
+D:\PhD\Research\UTS Work\ECML-Code\DHG_Data_Processor\DhgDataProcessor\obj\x64\Debug\DhgDataProcessor.pdb

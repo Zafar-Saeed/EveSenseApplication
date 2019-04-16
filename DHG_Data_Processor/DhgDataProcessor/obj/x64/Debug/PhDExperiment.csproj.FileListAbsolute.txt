@@ -1,0 +1,63 @@
+E:\Zafar\PhDExperiment - Optimization\PhDExperiment\bin\x64\Debug\PhDExperiment.exe.config
+E:\Zafar\PhDExperiment - Optimization\PhDExperiment\bin\x64\Debug\PhDExperiment.exe
+E:\Zafar\PhDExperiment - Optimization\PhDExperiment\bin\x64\Debug\PhDExperiment.pdb
+E:\Zafar\PhDExperiment - Optimization\PhDExperiment\bin\x64\Debug\Stemmer.dll
+E:\Zafar\PhDExperiment - Optimization\PhDExperiment\bin\x64\Debug\Stemmer.pdb
+E:\Zafar\PhDExperiment - Optimization\PhDExperiment\obj\x64\Debug\PhDExperiment.Form1.resources
+E:\Zafar\PhDExperiment - Optimization\PhDExperiment\obj\x64\Debug\PhDExperiment.frmDataSetParsingAndCleaning.resources
+E:\Zafar\PhDExperiment - Optimization\PhDExperiment\obj\x64\Debug\PhDExperiment.Properties.Resources.resources
+E:\Zafar\PhDExperiment - Optimization\PhDExperiment\obj\x64\Debug\PhDExperiment.csproj.GenerateResource.Cache
+E:\Zafar\PhDExperiment - Optimization\PhDExperiment\obj\x64\Debug\PhDExperiment.exe
+E:\Zafar\PhDExperiment - Optimization\PhDExperiment\obj\x64\Debug\PhDExperiment.pdb
+E:\Zafar\PhDExperiment - Optimization\PhDExperiment\obj\x64\Debug\PhDExperiment.csprojResolveAssemblyReference.cache
+D:\PhD\Research\UTS Work\PhDExperiment - Optimization\PhDExperiment\bin\x64\Debug\PhDExperiment.exe.config
+D:\PhD\Research\UTS Work\PhDExperiment - Optimization\PhDExperiment\obj\x64\Debug\PhDExperiment.exe
+D:\PhD\Research\UTS Work\PhDExperiment - Optimization\PhDExperiment\obj\x64\Debug\PhDExperiment.pdb
+D:\PhD\Research\UTS Work\PhDExperiment - Optimization\PhDExperiment\bin\x64\Debug\PhDExperiment.exe
+D:\PhD\Research\UTS Work\PhDExperiment - Optimization\PhDExperiment\bin\x64\Debug\PhDExperiment.pdb
+D:\PhD\Research\UTS Work\PhDExperiment - Optimization\PhDExperiment\bin\x64\Debug\Stemmer.dll
+D:\PhD\Research\UTS Work\PhDExperiment - Optimization\PhDExperiment\bin\x64\Debug\Stemmer.pdb
+D:\PhD\Research\UTS Work\PhDExperiment - Optimization\PhDExperiment\obj\x64\Debug\PhDExperiment.csprojResolveAssemblyReference.cache
+D:\PhD\Research\UTS Work\PhDExperiment - Optimization\PhDExperiment\obj\x64\Debug\PhDExperiment.frmDataSetParsingAndCleaning.resources
+D:\PhD\Research\UTS Work\PhDExperiment - Optimization\PhDExperiment\obj\x64\Debug\PhDExperiment.Properties.Resources.resources
+D:\PhD\Research\UTS Work\PhDExperiment - Optimization\PhDExperiment\obj\x64\Debug\PhDExperiment.csproj.GenerateResource.Cache
+D:\PhD\Research\UTS Work\PhDExperiment - Optimization\PhDExperiment\obj\x64\Debug\PhDExperiment.frmDataProcessor.resources
+D:\PhD\Research\UTS Work\PhDExperiment - Optimization\PhDExperiment\obj\x64\Debug\PhDExperiment.frmMainApp.resources
+D:\PhD\Research\UTS Work\PhDExperiment - Optimization\PhDExperiment\obj\x64\Debug\PhDExperiment.frmSpikeDetector.resources
+D:\PhD\Research\UTS Work\PhDExperiment - Optimization\PhDExperiment\obj\x64\Debug\PhDExperiment.frmTweetFrequencyDistributor.resources
+D:\PhD\Research\UTS Work\PhDExperiment - Optimization\PhDExperiment\obj\x64\Debug\PhDExperiment.frmReduceDataSet.resources
+D:\PhD\Research\UTS Work\PhDExperiment - Optimization - Iterative Sorting\PhDExperiment\bin\x64\Debug\PhDExperiment.exe.config
+D:\PhD\Research\UTS Work\PhDExperiment - Optimization - Iterative Sorting\PhDExperiment\obj\x64\Debug\PhDExperiment.exe
+D:\PhD\Research\UTS Work\PhDExperiment - Optimization - Iterative Sorting\PhDExperiment\obj\x64\Debug\PhDExperiment.pdb
+D:\PhD\Research\UTS Work\PhDExperiment - Optimization - Iterative Sorting\PhDExperiment\bin\x64\Debug\PhDExperiment.exe
+D:\PhD\Research\UTS Work\PhDExperiment - Optimization - Iterative Sorting\PhDExperiment\bin\x64\Debug\PhDExperiment.pdb
+D:\PhD\Research\UTS Work\PhDExperiment - Optimization - Iterative Sorting\PhDExperiment\bin\x64\Debug\Stemmer.dll
+D:\PhD\Research\UTS Work\PhDExperiment - Optimization - Iterative Sorting\PhDExperiment\bin\x64\Debug\Stemmer.pdb
+D:\PhD\Research\UTS Work\PhDExperiment - Optimization - Iterative Sorting\PhDExperiment\obj\x64\Debug\PhDExperiment.frmDataProcessor.resources
+D:\PhD\Research\UTS Work\PhDExperiment - Optimization - Iterative Sorting\PhDExperiment\obj\x64\Debug\PhDExperiment.frmDataSetParsingAndCleaning.resources
+D:\PhD\Research\UTS Work\PhDExperiment - Optimization - Iterative Sorting\PhDExperiment\obj\x64\Debug\PhDExperiment.frmMainApp.resources
+D:\PhD\Research\UTS Work\PhDExperiment - Optimization - Iterative Sorting\PhDExperiment\obj\x64\Debug\PhDExperiment.frmReduceDataSet.resources
+D:\PhD\Research\UTS Work\PhDExperiment - Optimization - Iterative Sorting\PhDExperiment\obj\x64\Debug\PhDExperiment.frmSpikeDetector.resources
+D:\PhD\Research\UTS Work\PhDExperiment - Optimization - Iterative Sorting\PhDExperiment\obj\x64\Debug\PhDExperiment.frmTweetFrequencyDistributor.resources
+D:\PhD\Research\UTS Work\PhDExperiment - Optimization - Iterative Sorting\PhDExperiment\obj\x64\Debug\PhDExperiment.Properties.Resources.resources
+D:\PhD\Research\UTS Work\PhDExperiment - Optimization - Iterative Sorting\PhDExperiment\obj\x64\Debug\PhDExperiment.csproj.GenerateResource.Cache
+D:\PhD\Research\UTS Work\PhDExperiment - Optimization - Iterative Sorting\PhDExperiment\obj\x64\Debug\PhDExperiment.csprojResolveAssemblyReference.cache
+D:\PhD\Research\UTS Work\PhDExperiment - MemoryFix\PhDExperiment\bin\x64\Debug\PhDExperiment.exe.config
+D:\PhD\Research\UTS Work\PhDExperiment - MemoryFix\PhDExperiment\obj\x64\Debug\PhDExperiment.exe
+D:\PhD\Research\UTS Work\PhDExperiment - MemoryFix\PhDExperiment\obj\x64\Debug\PhDExperiment.pdb
+D:\PhD\Research\UTS Work\PhDExperiment - MemoryFix\PhDExperiment\bin\x64\Debug\PhDExperiment.exe
+D:\PhD\Research\UTS Work\PhDExperiment - MemoryFix\PhDExperiment\bin\x64\Debug\PhDExperiment.pdb
+D:\PhD\Research\UTS Work\PhDExperiment - MemoryFix\PhDExperiment\bin\x64\Debug\Stemmer.dll
+D:\PhD\Research\UTS Work\PhDExperiment - MemoryFix\PhDExperiment\bin\x64\Debug\Stemmer.pdb
+D:\PhD\Research\UTS Work\PhDExperiment - MemoryFix\PhDExperiment\obj\x64\Debug\PhDExperiment.csprojResolveAssemblyReference.cache
+D:\PhD\Research\UTS Work\PhDExperiment - MemoryFix\PhDExperiment\obj\x64\Debug\PhDExperiment.frmDataProcessor.resources
+D:\PhD\Research\UTS Work\PhDExperiment - MemoryFix\PhDExperiment\obj\x64\Debug\PhDExperiment.frmDataSetParsingAndCleaning.resources
+D:\PhD\Research\UTS Work\PhDExperiment - MemoryFix\PhDExperiment\obj\x64\Debug\PhDExperiment.frmMainApp.resources
+D:\PhD\Research\UTS Work\PhDExperiment - MemoryFix\PhDExperiment\obj\x64\Debug\PhDExperiment.frmReduceDataSet.resources
+D:\PhD\Research\UTS Work\PhDExperiment - MemoryFix\PhDExperiment\obj\x64\Debug\PhDExperiment.frmSpikeDetector.resources
+D:\PhD\Research\UTS Work\PhDExperiment - MemoryFix\PhDExperiment\obj\x64\Debug\PhDExperiment.frmTweetFrequencyDistributor.resources
+D:\PhD\Research\UTS Work\PhDExperiment - MemoryFix\PhDExperiment\obj\x64\Debug\PhDExperiment.Properties.Resources.resources
+D:\PhD\Research\UTS Work\PhDExperiment - MemoryFix\PhDExperiment\obj\x64\Debug\PhDExperiment.csproj.GenerateResource.Cache
+D:\PhD\Research\UTS Work\ECML-Code\PhDExperiment - MemoryFix\PhDExperiment\bin\x64\Debug\PhDExperiment.exe.config
+D:\PhD\Research\UTS Work\ECML-Code\PhDExperiment - MemoryFix\PhDExperiment\obj\x64\Debug\PhDExperiment.exe
+D:\PhD\Research\UTS Work\ECML-Code\PhDExperiment - MemoryFix\PhDExperiment\obj\x64\Debug\PhDExperiment.pdb

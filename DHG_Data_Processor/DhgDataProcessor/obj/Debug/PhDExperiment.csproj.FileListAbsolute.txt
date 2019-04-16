@@ -1,0 +1,71 @@
+c:\users\zafar\documents\visual studio 2015\Projects\PhDExperiment\PhDExperiment\bin\Debug\PhDExperiment.exe.config
+c:\users\zafar\documents\visual studio 2015\Projects\PhDExperiment\PhDExperiment\bin\Debug\PhDExperiment.exe
+c:\users\zafar\documents\visual studio 2015\Projects\PhDExperiment\PhDExperiment\bin\Debug\PhDExperiment.pdb
+c:\users\zafar\documents\visual studio 2015\Projects\PhDExperiment\PhDExperiment\bin\Debug\Stemmer.dll
+c:\users\zafar\documents\visual studio 2015\Projects\PhDExperiment\PhDExperiment\bin\Debug\Stemmer.pdb
+c:\users\zafar\documents\visual studio 2015\Projects\PhDExperiment\PhDExperiment\obj\Debug\PhDExperiment.csprojResolveAssemblyReference.cache
+c:\users\zafar\documents\visual studio 2015\Projects\PhDExperiment\PhDExperiment\obj\Debug\PhDExperiment.Form1.resources
+c:\users\zafar\documents\visual studio 2015\Projects\PhDExperiment\PhDExperiment\obj\Debug\PhDExperiment.Properties.Resources.resources
+c:\users\zafar\documents\visual studio 2015\Projects\PhDExperiment\PhDExperiment\obj\Debug\PhDExperiment.csproj.GenerateResource.Cache
+c:\users\zafar\documents\visual studio 2015\Projects\PhDExperiment\PhDExperiment\obj\Debug\PhDExperiment.exe
+c:\users\zafar\documents\visual studio 2015\Projects\PhDExperiment\PhDExperiment\obj\Debug\PhDExperiment.pdb
+D:\PhD\My Software Tools and Datasets\PhDExperiment\PhDExperiment\bin\Debug\PhDExperiment.exe.config
+D:\PhD\My Software Tools and Datasets\PhDExperiment\PhDExperiment\obj\Debug\PhDExperiment.exe
+D:\PhD\My Software Tools and Datasets\PhDExperiment\PhDExperiment\obj\Debug\PhDExperiment.pdb
+D:\PhD\My Software Tools and Datasets\PhDExperiment\PhDExperiment\bin\Debug\PhDExperiment.exe
+D:\PhD\My Software Tools and Datasets\PhDExperiment\PhDExperiment\bin\Debug\PhDExperiment.pdb
+D:\PhD\My Software Tools and Datasets\PhDExperiment\PhDExperiment\bin\Debug\Stemmer.dll
+D:\PhD\My Software Tools and Datasets\PhDExperiment\PhDExperiment\bin\Debug\Stemmer.pdb
+D:\PhD\My Software Tools and Datasets\PhDExperiment\PhDExperiment\obj\Debug\PhDExperiment.csprojResolveAssemblyReference.cache
+D:\PhD\My Software Tools and Datasets\PhDExperiment\PhDExperiment\obj\Debug\PhDExperiment.Form1.resources
+D:\PhD\My Software Tools and Datasets\PhDExperiment\PhDExperiment\obj\Debug\PhDExperiment.Properties.Resources.resources
+D:\PhD\My Software Tools and Datasets\PhDExperiment\PhDExperiment\obj\Debug\PhDExperiment.csproj.GenerateResource.Cache
+D:\PhD\My Software Tools and Datasets\PhDExperiment\PhDExperiment\obj\Debug\PhDExperiment.frmDataSetParsingAndCleaning.resources
+E:\Zafar\PhDExperiment\PhDExperiment\bin\Debug\PhDExperiment.exe.config
+E:\Zafar\PhDExperiment\PhDExperiment\obj\Debug\PhDExperiment.exe
+E:\Zafar\PhDExperiment\PhDExperiment\obj\Debug\PhDExperiment.pdb
+E:\Zafar\PhDExperiment\PhDExperiment\bin\Debug\PhDExperiment.exe
+E:\Zafar\PhDExperiment\PhDExperiment\bin\Debug\PhDExperiment.pdb
+E:\Zafar\PhDExperiment\PhDExperiment\bin\Debug\Stemmer.dll
+E:\Zafar\PhDExperiment\PhDExperiment\bin\Debug\Stemmer.pdb
+E:\Zafar\PhDExperiment\PhDExperiment\obj\Debug\PhDExperiment.csprojResolveAssemblyReference.cache
+E:\Zafar\PhDExperiment\PhDExperiment\obj\Debug\PhDExperiment.Form1.resources
+E:\Zafar\PhDExperiment\PhDExperiment\obj\Debug\PhDExperiment.frmDataSetParsingAndCleaning.resources
+E:\Zafar\PhDExperiment\PhDExperiment\obj\Debug\PhDExperiment.Properties.Resources.resources
+E:\Zafar\PhDExperiment\PhDExperiment\obj\Debug\PhDExperiment.csproj.GenerateResource.Cache
+E:\Zafar\PhDExperiment - Copy\PhDExperiment\bin\Debug\PhDExperiment.exe.config
+E:\Zafar\PhDExperiment - Copy\PhDExperiment\obj\Debug\PhDExperiment.exe
+E:\Zafar\PhDExperiment - Copy\PhDExperiment\obj\Debug\PhDExperiment.pdb
+E:\Zafar\PhDExperiment - Copy\PhDExperiment\bin\Debug\PhDExperiment.exe
+E:\Zafar\PhDExperiment - Copy\PhDExperiment\bin\Debug\PhDExperiment.pdb
+E:\Zafar\PhDExperiment - Copy\PhDExperiment\bin\Debug\Stemmer.dll
+E:\Zafar\PhDExperiment - Copy\PhDExperiment\bin\Debug\Stemmer.pdb
+E:\Zafar\PhDExperiment - Copy\PhDExperiment\obj\Debug\PhDExperiment.csprojResolveAssemblyReference.cache
+E:\Zafar\PhDExperiment - Copy\PhDExperiment\obj\Debug\PhDExperiment.Form1.resources
+E:\Zafar\PhDExperiment - Copy\PhDExperiment\obj\Debug\PhDExperiment.frmDataSetParsingAndCleaning.resources
+E:\Zafar\PhDExperiment - Copy\PhDExperiment\obj\Debug\PhDExperiment.Properties.Resources.resources
+E:\Zafar\PhDExperiment - Copy\PhDExperiment\obj\Debug\PhDExperiment.csproj.GenerateResource.Cache
+E:\Zafar\PhDExperiment - Optimization\PhDExperiment\bin\Debug\PhDExperiment.exe.config
+E:\Zafar\PhDExperiment - Optimization\PhDExperiment\obj\Debug\PhDExperiment.exe
+E:\Zafar\PhDExperiment - Optimization\PhDExperiment\obj\Debug\PhDExperiment.pdb
+E:\Zafar\PhDExperiment - Optimization\PhDExperiment\bin\Debug\PhDExperiment.exe
+E:\Zafar\PhDExperiment - Optimization\PhDExperiment\bin\Debug\PhDExperiment.pdb
+E:\Zafar\PhDExperiment - Optimization\PhDExperiment\bin\Debug\Stemmer.dll
+E:\Zafar\PhDExperiment - Optimization\PhDExperiment\bin\Debug\Stemmer.pdb
+E:\Zafar\PhDExperiment - Optimization\PhDExperiment\obj\Debug\PhDExperiment.csprojResolveAssemblyReference.cache
+E:\Zafar\PhDExperiment - Optimization\PhDExperiment\obj\Debug\PhDExperiment.Form1.resources
+E:\Zafar\PhDExperiment - Optimization\PhDExperiment\obj\Debug\PhDExperiment.frmDataSetParsingAndCleaning.resources
+E:\Zafar\PhDExperiment - Optimization\PhDExperiment\obj\Debug\PhDExperiment.Properties.Resources.resources
+E:\Zafar\PhDExperiment - Optimization\PhDExperiment\obj\Debug\PhDExperiment.csproj.GenerateResource.Cache
+D:\PhD\My Software Tools and Datasets\PhDExperiment - Optimization\PhDExperiment\bin\Debug\PhDExperiment.exe.config
+D:\PhD\My Software Tools and Datasets\PhDExperiment - Optimization\PhDExperiment\obj\Debug\PhDExperiment.exe
+D:\PhD\My Software Tools and Datasets\PhDExperiment - Optimization\PhDExperiment\obj\Debug\PhDExperiment.pdb
+D:\PhD\My Software Tools and Datasets\PhDExperiment - Optimization\PhDExperiment\bin\Debug\PhDExperiment.exe
+D:\PhD\My Software Tools and Datasets\PhDExperiment - Optimization\PhDExperiment\bin\Debug\PhDExperiment.pdb
+D:\PhD\My Software Tools and Datasets\PhDExperiment - Optimization\PhDExperiment\bin\Debug\Stemmer.dll
+D:\PhD\My Software Tools and Datasets\PhDExperiment - Optimization\PhDExperiment\bin\Debug\Stemmer.pdb
+D:\PhD\My Software Tools and Datasets\PhDExperiment - Optimization\PhDExperiment\obj\Debug\PhDExperiment.csprojResolveAssemblyReference.cache
+D:\PhD\My Software Tools and Datasets\PhDExperiment - Optimization\PhDExperiment\obj\Debug\PhDExperiment.Form1.resources
+D:\PhD\My Software Tools and Datasets\PhDExperiment - Optimization\PhDExperiment\obj\Debug\PhDExperiment.frmDataSetParsingAndCleaning.resources
+D:\PhD\My Software Tools and Datasets\PhDExperiment - Optimization\PhDExperiment\obj\Debug\PhDExperiment.Properties.Resources.resources
+D:\PhD\My Software Tools and Datasets\PhDExperiment - Optimization\PhDExperiment\obj\Debug\PhDExperiment.csproj.GenerateResource.Cache
