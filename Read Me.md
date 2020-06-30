@@ -59,12 +59,12 @@ Txt Format (Feature Set in Clean Dataset):
 
 - The extractor produces following files in the app root folder:
 	
-1- Degree_Centrality_Scores.csv	
-2- Sliding_Windows_Features.csv
-3- UserInfoInEachSlidingWindow.csv
-4- UserTweetDistribution.csv
-5- WordDistribution.csv
-6- WordTweetUserDistribution.csv
+		1- Degree_Centrality_Scores.csv	
+		2- Sliding_Windows_Features.csv
+		3- UserInfoInEachSlidingWindow.csv
+		4- UserTweetDistribution.csv
+		5- WordDistribution.csv
+		6- WordTweetUserDistribution.csv
 
 
 ------------------
