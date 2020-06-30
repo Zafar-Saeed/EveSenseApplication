@@ -4,14 +4,14 @@
 EveSense Event Detection Application
 /***********************************/
 
-1- The source code is for the use of academic and research purposes only
-2- Demo Video is available at https://www.youtube.com/watch?v=YRMRc8tIupA
-3- Please report bugs and issues directly to zsaeed@cs.qau.edu.pk
-4- You need to have .Net framework 4.0 or later installed on the system
-5- There are two application projects
-  
-	5.1. DHG-Data-Processor
-	5.2. EveSense
+	1- The source code is for the use of academic and research purposes only
+	2- Demo Video is available at https://www.youtube.com/watch?v=YRMRc8tIupA
+	3- Please report bugs and issues directly to zsaeed@cs.qau.edu.pk
+	4- You need to have .Net framework 4.0 or later installed on the system
+	5- There are two application projects
+
+		5.1. DHG-Data-Processor
+		5.2. EveSense
 
 
 -----------------------
@@ -79,9 +79,16 @@ Txt Format (Feature Set in Clean Dataset):
 
 For any questions or requests, please contact any of the following co-authors of the paper: Saeed Z. OR Ayaz Abbasi R.
 
+
+-----------------
+For the citation:
+-----------------
+
 Saeed Z., Ayaz Abbasi R., Razzak I. (2020) EveSense: What Can You Sense from Twitter?. In: Jose J. et al. (eds) Advances in Information Retrieval. ECIR 2020. Lecture Notes in Computer Science, vol 12036. Springer, Cham
 
-For the event detection model and novel Dynamic Heartbeat Graph (DHG) approach, please read the following technical papers:
+-----------------------------------------------------------------------------------
+Dynamic Heartbeat Graph (DHG) approach, please read the following technical papers:
+-----------------------------------------------------------------------------------
 
 Saeed, Z., Abbasi, R. A., Razzak, M. I., Maqbool, O., Sadaf, A., and Xu, G. (2019). Enhanced Heartbeat Graph for emerging event detection on Twitter using time series networks, Expert Systems with Applications, 136:115-132.
 
